@@ -1,6 +1,6 @@
 # Task-Tracker-app
 
-The "Task-Tracker-app" repository contains scripts and resources for developing a comprehensive task management system. This application allows users to create, manage, and track tasks efficiently, enhancing productivity and organization.
+The "Task-Tracker-app" repository contains scripts and resources for developing a comprehensive task management system. This application allows users to create, manage, and track tasks efficiently, enhancing productivity and organization
 
 ## Features
 
