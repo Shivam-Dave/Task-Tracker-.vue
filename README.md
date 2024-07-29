@@ -11,10 +11,10 @@ The "Task-Tracker-app" repository contains scripts and resources for developing 
 
 ## Requirements
 
-- Node.js
-- React
+- Nest.js
+- vue.js
 - Express
-- MongoDB
+- MongoDB Atlas
 - JWT for authentication
 - Bootstrap for styling
 
